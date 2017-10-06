@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <date>12.03.18</date>
+        <departure>19:45</departure>
+        <from>qwe</from>
+        <to>asd</to>
+    </train>
+    <train id="2">
+        <date>06.10.18</date>
+        <departure>15:55</departure>
+        <from>poi</from>
+        <to>lkj</to>
+    </train>
+    <train id="3">
+        <date>12.12.17</date>
+        <departure>19:20</departure>
+        <from>zxc</from>
+        <to>mnb</to>
+    </train>
+</trains>
